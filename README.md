@@ -55,7 +55,7 @@
 
 <p align="center">
 <a href="https://www.ZazaSoftware.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ZazaSoftware.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/ZazaSoft/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/ZazaSoft/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ZazaSoftware-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ZazaSoftware/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zaza_Software-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ZazaSoftware"><img alt="Email" src="https://img.shields.io/badge/Email-08182005442p@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
