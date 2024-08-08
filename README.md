@@ -1,4 +1,4 @@
-### HI AM ZazaSoftware👨‍💻
+###  ZazaSoftware👨‍💻
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ZazaSoftware)](https://twitter.com/ZazaSoftware)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ZazaSoftware)](https://www.linkedin.com/in/engincan-veske-b4a75b145/)
@@ -12,7 +12,6 @@
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -49,6 +48,17 @@
 
 ![ZazaSoftware's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
 
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.ZazaSoftware.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ZazaSoftware.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/ZazaSoft/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ZazaSoftware/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zaza_Software-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ZazaSoftware"><img alt="Email" src="https://img.shields.io/badge/Email-08182005442p@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 🌱 Learning all about **Open Source**
 
