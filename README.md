@@ -1,5 +1,6 @@
 # ZazaSoftware👨‍💻
 
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ZazaSoftware)](https://twitter.com/ZazaSoftware)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ZazaSoftware)](https://www.linkedin.com/in/engincan-veske-b4a75b145/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/ZazaSoftware)](https://stackoverflow.com/users/10477283/ZazaSoftware)
