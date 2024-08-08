@@ -8,7 +8,7 @@
 
 **💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
-**👨🏻‍💻 Currently working on:** mobile & ios app development
+**👨🏻‍💻 Currently looking for a job :** freelancer mobile & ios web/app development
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
