@@ -9,7 +9,7 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@ZazaSoftware)
 [![GitHub followers](https://img.shields.io/github/followers/.svg?stylZazaSoftwaree=social&label=Follow&maxAge=2592000)](https://github.com/?tab=ZazaSoftwarefollowers)
 
-**💼 formally working as:** Software developer Intern at <a href="https://Gila software.com/" target="_blank"><b>Volosoft</b></a>
+**💼 formally working as:** Software developer Intern at <a href="https://Gila software.com/" target="_blank"><b>Gila software</b></a>
 
 **👨🏻‍💻 Currently looking for a job :** freelancer mobile & ios web/app development
 
@@ -57,10 +57,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.ZazaSoftware.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ZazaSoftware.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://zazasoftware.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ZazaSoftware.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/ZazaSoft/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ZazaSoftware-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ZazaSoftware/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zaza_Software-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ZazaSoftware"><img alt="Email" src="https://img.shields.io/badge/Email-08182005442p@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ZazaSoftware"><img alt="Email" src="https://img.shields.io/badge/Email-zazasoftwaree@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 🌱 Learning all about **Open Source**
