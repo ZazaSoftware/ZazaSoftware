@@ -58,9 +58,9 @@
 
 <p align="center">
 <a href="https://zazasoftware.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ZazaSoftware.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/ZazaSoft/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ZazaSoftware-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ZazaSoftware/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zaza_Software-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ZazaSoftware"><img alt="Email" src="https://img.shields.io/badge/Email-zazasoftwaree@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/zaza-software-b17578332?/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ZazaSoftware-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/zaza_software?igsh=MW5pZzF2ajd2MnBqNA==/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zaza_Software-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ZazaSoftwaree"><img alt="Email" src="https://img.shields.io/badge/Email-zazasoftwaree@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 🌱 Learning all about **Open Source**
