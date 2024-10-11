@@ -4,12 +4,12 @@
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ZazaSoftware)](https://twitter.com/ZazaSoftware)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ZazaSoftware)](https://www.linkedin.com/in/engincan-veske-b4a75b145/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ZazaSoftware)](https://www.linkedin.com/in/zaza-software-b17578332?)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/ZazaSoftware)](https://stackoverflow.com/users/10477283/ZazaSoftware)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@ZazaSoftware)
 [![GitHub followers](https://img.shields.io/github/followers/.svg?stylZazaSoftwaree=social&label=Follow&maxAge=2592000)](https://github.com/?tab=ZazaSoftwarefollowers)
 
-**💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+**💼 formally working as:** Software developer Intern at <a href="https://Gila software.com/" target="_blank"><b>Volosoft</b></a>
 
 **👨🏻‍💻 Currently looking for a job :** freelancer mobile & ios web/app development
 
